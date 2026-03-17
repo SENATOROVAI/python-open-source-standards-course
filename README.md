@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/193773
+#### https://SenatorovAI.com
 
 # Python Open Source Standards Course  
 ## Production-Ready Python, GitHub Best Practices, Linters, Pre-Commit & Project Structure
